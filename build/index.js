@@ -51,7 +51,7 @@ function phraseLoad() {
   typeWriterEffect(textContainer1, phrase1, currentPhrase1);
 }
 
-// phraseLoad();
+phraseLoad();
 // Toggles Dark Mode And Light Mode
 const lightModeBtn = document.querySelector("input");
 lightModeBtn.addEventListener("click", () => {
